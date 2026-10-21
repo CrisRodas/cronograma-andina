@@ -1,0 +1,6 @@
+# Datos fuente y temporales (no publicar)
+*.xlsx
+*.zip
+extracted/
+_plantilla_*.html
+.vscode/
